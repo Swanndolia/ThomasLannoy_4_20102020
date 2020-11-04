@@ -1,4 +1,3 @@
-
 # Expires headers
 
 <IfModule mod_expires.c>
